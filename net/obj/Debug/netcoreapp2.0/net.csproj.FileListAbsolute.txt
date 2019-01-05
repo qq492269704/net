@@ -6,3 +6,11 @@ C:\Users\Administrator\source\repos\net\net\obj\Debug\netcoreapp2.0\net.csprojAs
 C:\Users\Administrator\source\repos\net\net\obj\Debug\netcoreapp2.0\net.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\source\repos\net\net\obj\Debug\netcoreapp2.0\net.AssemblyInfoInputs.cache
 C:\Users\Administrator\source\repos\net\net\obj\Debug\netcoreapp2.0\net.AssemblyInfo.cs
+D:\deng\net\net\bin\Debug\netcoreapp2.0\net.deps.json
+D:\deng\net\net\bin\Debug\netcoreapp2.0\net.runtimeconfig.json
+D:\deng\net\net\bin\Debug\netcoreapp2.0\net.runtimeconfig.dev.json
+D:\deng\net\net\bin\Debug\netcoreapp2.0\net.dll
+D:\deng\net\net\obj\Debug\netcoreapp2.0\net.csprojAssemblyReference.cache
+D:\deng\net\net\obj\Debug\netcoreapp2.0\net.csproj.CoreCompileInputs.cache
+D:\deng\net\net\obj\Debug\netcoreapp2.0\net.AssemblyInfoInputs.cache
+D:\deng\net\net\obj\Debug\netcoreapp2.0\net.AssemblyInfo.cs
