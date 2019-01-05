@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  net:
+    image: ${DOCKER_REGISTRY-}net
+    build:
+      context: .
+      dockerfile: net/Dockerfile
